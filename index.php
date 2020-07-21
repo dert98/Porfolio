@@ -233,7 +233,7 @@
                 <div class="portfolio-item mt-5 aos-init" data-aos="fade-up">
                     <div class="card h-100">
                         <a href="#">
-                            <img class="card-img-top" src="Porfolio_archivos/codigo.jpg" alt="">
+                            <img class="card-img-top" src="Porfolio_archivos/serafina.jpg" alt="">
                         </a>
                         <div class="card-body">
                             <div>
