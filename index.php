@@ -164,20 +164,20 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-6 col-md-3">
-                            <img src="Porfolio_archivos/git.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
-                            <p class="contentTecnico aos-init" data-aos="fade-up">GIT</p>
+                            <img src="Porfolio_archivos/cd.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                            <p class="contentTecnico aos-init" data-aos="fade-up">Corel Draw</p>
                         </div>
                         <div class="col-6 col-md-3">
                             <img src="Porfolio_archivos/nodejs.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
                             <p class="contentTecnico aos-init" data-aos="fade-up">NODEJS</p>
                         </div>
                         <div class="col-6 col-md-3">
-                            <img src="Porfolio_archivos/gitlab.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
-                            <p class="contentTecnico aos-init" data-aos="fade-up">GITLAB</p>
+                            <img src="Porfolio_archivos/ps.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                            <p class="contentTecnico aos-init" data-aos="fade-up">Ps</p>
                         </div>
                         <div class="col-6 col-md-3">
-                            <img src="Porfolio_archivos/jest.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
-                            <p class="contentTecnico aos-init" data-aos="fade-up">JEST</p>
+                            <img src="Porfolio_archivos/github.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                            <p class="contentTecnico aos-init" data-aos="fade-up">Github</p>
                         </div>
                     </div>
                 </div>
