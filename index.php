@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Oscar Ruiz</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- FUENTE DE GOOGLE  -->
+    <link href="Porfolio_archivos/css_003.css" rel="stylesheet">
+    <link href="Porfolio_archivos/css_002.css" rel="stylesheet">
+    <link href="Porfolio_archivos/css.css" rel="stylesheet">
+    <!-- LINK BOOTSTRAP asdasd-->
+    <link rel="stylesheet" href="Porfolio_archivos/bootstrap.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!-- SCROLL REVEAL -->
+    <link rel="stylesheet" href="Porfolio_archivos/aos.css">
+    <!-- CUSTOM CSS -->
+    <link rel="stylesheet" href="Porfolio_archivos/app.css">
+    <link rel="stylesheet" href="Porfolio_archivos/animate.css">
+</head>
+
+
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+    <!-- ********************************** START THE CODE    ***************************** -->
+    <!-- NAVIGATION -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">Dd.</a>   <!-- Logo.asd -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#header">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#aboutMe">Acerca de mí</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#habilidades-blandas">Habilidades</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#portfolio">Proyectos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- HEADER -->
+    <header id="header" class="pt-5 pb-5 mt-0 align-items-center d-flex bg-dark">
+        <div class="container-fluid mt-5">
+            <div class="row justify-content-center align-items-center d-flex text-center h-100">
+                <div class="col-md-12 col-md-8  h-50">
+                    <div class="header-content">
+                        <h1 class="display-3 mb-2 mt-4">Hola, soy Oscar Ruiz</h1>
+                        <p class="h2 mt-4 mb-5">Frond-end Developer &amp;  Programador Java</p>
+                        <a id="btnStart" href="#aboutMe" class="btn btn-lg active">SABER MÁS DE MÍ</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- MAIN -->
+    <section id="aboutMe" style="padding-bottom: 50px">
+        <div class="container mt-1">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 id="titleAboutMe" class="text-center aos-init" data-aos="fade-up">Un poco acerca de mí</h2>
+                </div>
+            </div>
+            <div class="row align-items-center aboutMe__content">
+                <div class="col-lg-6 order-lg-1">
+                    <div class="p-3 aboutMe__img">
+                        <img class="img-fluid rounded-circle aos-init" src="Porfolio_archivos/yo.jpg" alt="" data-aos="fade-up">
+                    </div>
+                </div>
+                <div class="col-lg-6 order-lg-1">
+                    <div class="p-3">
+                        <p id="aboutMe-content" data-aos="fade-up" class="aos-init">
+                            Hola, me llamo Oscar Ruiz (Dert Driver), apasionado de la tecnología y el código. Soy una persona
+                            autodidacta y muy curiosa lo cual me ha
+                            permitido resolver problemas para el desarrollo de proyectos mediante la metodología ágil.
+                            <br> Busco que cada proyecto que realizo me rete técnicamente pensando siempre en la
+                            necesidades
+                            e interacción del usuario.<br>
+                            En un futuro aspiro a ser una Full Stack Developer y especializarme en Seguridad
+                            Informática y así poder
+                            desarrollar sistemas que sean más robustos e inviolables.
+                        </p>
+                        <p class="aboutMe__btn">
+                            <a id="btnCV" href="https://marykattyvo.github.io/Portafolio/img/cv-mary-katty-vicu%C3%B1a-ore.pdf" download="cvMaryKatty" class="botones btn btn-lg active aos-init" target="_blank" data-aos="fade-up">DESCARGAR CV</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- HABILIDADES BLANDAS -->
+    <section id="habilidades-blandas">
+        <div class="container mt-3">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 id="titleSkills" data-aos="fade-up" class="aos-init">Habilidades Blandas</h2>
+                </div>
+            </div>
+            <div class="row text-center mt-3">
+                <div class="col-md-4 mt-4">
+                    <img src="Porfolio_archivos/equipo.png">
+                    <h4 class="titleBlandas mt-4 aos-init" data-aos="fade-up">Trabajo en equipo</h4>
+                    <p class="mt-2 aos-init" data-aos="fade-up">El trabajo en equipo me ha permitido poder desarrollar de manera integra y
+                        colaborativa productos digitales
+                        de calidad.</p>
+                </div>
+                <div class="col-md-4 mt-4">
+                    <img src="Porfolio_archivos/autodidacta.png">
+                    <h4 class="titleBlandas mt-4 aos-init" data-aos="fade-up">Autodidacta</h4>
+                    <p class="mt-2 aos-init" data-aos="fade-up">Ser una persona curiosa y autodidacta me ha permitido conocer nuevas herramientas
+                        tecnológicas para el
+                        desarrollo de productos digitales y poder adaptarme al mundo cambiante y acelerado de la
+                        tecnología.
+                    </p>
+                </div>
+                <div class="col-md-4 mt-4">
+                    <img src="Porfolio_archivos/presion.png">
+                    <h4 class="titleBlandas mt-4 aos-init" data-aos="fade-up">Trabajo bajo presión</h4>
+                    <p class="mt-2 aos-init" data-aos="fade-up">Mi estancia en Laboratoria y el aprendizaje y aplicación de la metodología ágil me
+                        ha permitido desarrollar
+                        productos digitales en tiempos estimados y cortos.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- HABILIDADES TÉCNICAS  -->
+    <section id="habilidades-tecnicas" style="padding: 60px">
+        <div class="container mt-3">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 id="titleTecnico" data-aos="fade-up" class="aos-init">Habilidades Técnicas</h2>
+                </div>
+            </div>
+            <div class="container mt-5">
+                <div class="row text-center">
+                    <div class="col-6 col-md-3">
+                        <img src="Porfolio_archivos/javascript.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                        <p class="contentTecnico aos-init" data-aos="fade-up">JAVASCRIPT</p>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <img src="Porfolio_archivos/html-5.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                        <p class="contentTecnico aos-init" data-aos="fade-up">HTML5</p>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <img src="Porfolio_archivos/css.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                        <p class="contentTecnico aos-init" data-aos="fade-up">CSS</p>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <img src="Porfolio_archivos/bootstrap.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                        <p class="contentTecnico aos-init" data-aos="fade-up">BOOSTRAP</p>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-6 col-md-3">
+                            <img src="Porfolio_archivos/cd.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                            <p class="contentTecnico aos-init" data-aos="fade-up">Corel Draw</p>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <img src="Porfolio_archivos/nodejs.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                            <p class="contentTecnico aos-init" data-aos="fade-up">NODEJS</p>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <img src="Porfolio_archivos/ps.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                            <p class="contentTecnico aos-init" data-aos="fade-up">Ps</p>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <img src="Porfolio_archivos/github.png" class="habilidades-tecnicas__img aos-init" data-aos="fade-up">
+                            <p class="contentTecnico aos-init" data-aos="fade-up">Github</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- PROYECTOS -->
+    <section id="portfolio">
+        <div class="container mt-3">
+            <h2 id="titleProject" class="text-center aos-init" data-aos="fade-up">Proyectos</h2>
+            <p class="text-center aos-init" data-aos="fade-up">Estos son algunos de los proyectos que he realizado aplicando metodología ágiles</p>
+            <div class="row mt-4 portfolio__card">
+                <div class="portfolio-item mt-5 aos-init" data-aos="fade-up">
+                    <div class="card h-100">
+                        <a href="#">
+                            <img class="card-img-top" src="Porfolio_archivos/redsocial.jpg" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div>
+                                <h4 class="text-center titlePortfolio">Web All Crocheting</h4>
+                                <p class="card-text">Una web que se dedica a la venta de productos tejidos a mano en crochet, con la parte de Administracion Crud.
+                                </p>
+                            </div>
+                            <div class="card-title">
+                                <a href="https://marykattyvo.github.io/lim-2018-05-bc-core-pm-socialnetwork/src/" class="botones btn btn-lg active" target="_blank">
+                                DEMO </a>
+                                <a href="https://github.com/MaryKattyVO/lim-2018-05-bc-core-pm-socialnetwork" class="botones btn btn-lg active" target="_blank">
+                                CÓDIGO </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item mt-5 aos-init" data-aos="fade-up">
+                    <div class="card h-100">
+                        <a href="#">
+                            <img class="card-img-top" src="Porfolio_archivos/dddd.jpg" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div>
+                                <h4 class="text-center titlePortfolio">DdDd inc.</h4>
+                                <p class="card-text">Web de empresa dedicada a la creacion de Web`s para modernizacion del alcanse a los clientes
+                                </p>
+                            </div>
+                            <div class="card-title">
+                                <a href="https://marykattyvo.github.io/lim-2018-01-lab-songs-frameworks/" class="botones btn btn-lg active" target="_blank">
+                                DEMO </a>
+                                <a href="https://github.com/MaryKattyVO/lim-2018-01-lab-songs-frameworks" class="botones btn btn-lg active" target="_blank">
+                                    CÓDIGO </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="portfolio-item mt-5 aos-init" data-aos="fade-up">
+                    <div class="card h-100">
+                        <a href="#">
+                            <img class="card-img-top" src="Porfolio_archivos/codigo.jpg" alt="">
+                        </a>
+                        <div class="card-body">
+                            <div>
+                                <h4 class="text-center  titlePortfolio">Serafina</h4>
+                                <p class="card-text">Serafina Delicias un web dedicada a la venda pasteleria
+                                </p>
+                            </div>
+                            <div class="card-title">
+                                <a href="https://github.com/MaryKattyVO/lim20181-Track-FE-markdown-list" class="botones btn btn-lg active" target="_blank">
+                                DEMO </a>
+                                <a href="https://github.com/MaryKattyVO/lim20181-Track-FE-markdown-list" class="botones btn btn-lg active" target="_blank">
+                                CÓDIGO </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- CONTACT -->
+    <section id="contact" style="padding-top: 50px; padding-bottom: 50px">
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 id="titleContact" data-aos="fade-up" class="aos-init">Contáctame</h2>
+                    <p data-aos="fade-up" class="aos-init">Ponte en contacto conmigo e iniciemos un proyecto juntos</p>
+                </div>
+            </div>
+        </div>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-6 col-md-3 mt-5 aos-init" data-aos="fade-up">
+                    <a href="https://github.com/dert98" target="_blank" class="contact__a">
+                        <img src="Porfolio_archivos/github.png" alt="">
+                        <p>Ve mi código</p>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 mt-5 aos-init" data-aos="fade-up">
+                    <a href="https://www.linkedin.com/in/oscar-ruiz-7a3371171/" target="_blank" class="contact__a">
+                        <img src="Porfolio_archivos/linkedin.png" alt="">s
+                        <p>Búscame</p>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 mt-5 aos-init" data-aos="fade-up">
+                    <a href="#" class="contact__a">
+                        <img src="Porfolio_archivos/gmail.png" alt="">
+                        <p>dertdriver@gmail.com</p>
+                    </a>
+                </div>
+                <div class="col-6 col-md-3 mt-5 aos-init" data-aos="fade-up">
+                    <a href="#" class="contact__a">
+                        <img src="Porfolio_archivos/simbolo-de-un-auricular-de-telefono-en-un-circulo.png" alt="">
+                        <p>+54 221 6124839</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FOOTER -->
+    <footer style="background-color: #353333 ; padding-top: 25px; padding-bottom: 25px">
+        <div class="container">
+            <div class="row">
+                <div class="col text-center">
+                    <span class="copyright " style="color: #f1f1f1 ">Copyright © 2020 Dert Driver</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ************************************ END THE CODE    ******************************* -->
+    <!-- BOOTSTRAP 4 SCRIPTS -->
+    <script src="Porfolio_archivos/jquery-3.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="Porfolio_archivos/popper.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="Porfolio_archivos/bootstrap.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="Porfolio_archivos/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+</body></html>
