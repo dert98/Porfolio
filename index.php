@@ -126,7 +126,7 @@
                 <div class="col-md-4 mt-4">
                     <img src="Porfolio_archivos/presion.png">
                     <h4 class="titleBlandas mt-4 aos-init" data-aos="fade-up">Trabajo bajo presión</h4>
-                    <p class="mt-2 aos-init" data-aos="fade-up">Mi estancia en Laboratoria y el aprendizaje y aplicación de la metodología ágil me
+                    <p class="mt-2 aos-init" data-aos="fade-up">Mi estancia en Laboratorio y el aprendizaje y aplicación de la metodología ágil me
                         ha permitido desarrollar
                         productos digitales en tiempos estimados y cortos.
                     </p>
