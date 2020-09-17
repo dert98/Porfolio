@@ -1,1 +1,226 @@
-body{font-family:"GillSansExtrabold",Helvetica,sans-serif}:root{--color-1:rgb(84,130,168);--color-2:rgb(179,221,255);--color-3:rgb(146,201,245);--color-4:rgb(168,129,67);--color-5:rgb(245,206,147);}.text1{color:var(--color-1);}.bg1{background-color:var(--color-1);}.s1{-webkit-box-shadow:10px10px5px0pxvar(--color-1);-moz-box-shadow:10px10px5px0pxvar(--color-1);box-shadow:10px10px5px0pxvar(--color-1);}.b1{border-color:var(--color-);border-style:solid;}.text2{color:var(--color-2);}.bg2{background-color:var(--color-2);}.s2{-webkit-box-shadow:10px10px5px0pxvar(--color-2);-moz-box-shadow:10px10px5px0pxvar(--color-2);box-shadow:10px10px5px0pxvar(--color-2);}.b2{border-color:var(--color-2);border-style:solid;}.text3{color:var(--color-3);}.bg3{background-color:var(--color-3);}.s3{-webkit-box-shadow:10px10px5px0pxvar(--color-3);-moz-box-shadow:10px10px5px0pxvar(--color-3);box-shadow:10px10px5px0pxvar(--color-3);}.b3{border-color:var(--color-3);border-bottom-style:solid;}.text4{color:var(--color-4);}.bg4{background-color:var(--color-4);}.s4{-webkit-box-shadow:10px10px5px0pxvar(--color-4);-moz-box-shadow:10px10px5px0pxvar(--color-4);box-shadow:10px10px5px0pxvar(--color-4);}.b4{border-color:var(--color-4);border-bottom-style:solid;}.text5{color:var(--color-5);}.bg5{background-color:var(--color-5);}.s5{-webkit-box-shadow:10px10px5px0pxvar(--color-5);-moz-box-shadow:10px10px5px0pxvar(--color-5);box-shadow:10px10px5px0pxvar(--color-5);}.b5{border-color:var(--color-5);border-bottom-style:solid;}
+body { 
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif 
+}
+:root {
+    --color-1: rgb(84,130,168);
+    --color-2: rgb(179,221,255);
+    --color-3: rgb(146,201,245);
+    --color-4: rgb(168,129,67);
+    --color-5: rgb(245,206,147);
+}
+.text1{
+    color: var(--color-1);
+}
+.bg1{
+    background-color: var(--color-1);
+}
+.s1{
+    -webkit-box-shadow: 10px 10px 5px 0px var(--color-1);
+    -moz-box-shadow: 10px 10px 5px 0px var(--color-1);
+    box-shadow: 10px 10px 5px 0px var(--color-1);
+}
+.b1{
+    border-color: var(--color-1);
+    border-style: solid;
+}
+.bt1{
+    border-top-color: var(--color-1);
+    border-style: solid;
+}
+.br1{
+    border-right-color: var(--color-1);
+    border-style: solid;
+}
+.bb1{
+    border-bottom-color: var(--color-1);
+    border-style: solid;
+}
+.bl1{
+    border-left-color: var(--color-1);
+    border-style: solid;
+}
+.btb1{
+    border-top-color: var(--color-1);
+    border-bottom-color: var(--color-1);
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+.brl1{
+    border-right-color: var(--color-1);
+    border-left: var(--color-1);
+    border-right-style: solid;
+    border-left-style: solid;
+} 
+
+.text2{
+    color: var(--color-2);
+}
+.bg2{
+    background-color: var(--color-2);
+}
+.s2{
+    -webkit-box-shadow: 10px 10px 5px 0px var(--color-2);
+    -moz-box-shadow: 10px 10px 5px 0px var(--color-2);
+    box-shadow: 10px 10px 5px 0px var(--color-2);
+}
+.b2{
+    border-color: var(--color-2);
+    border-style: solid;
+}
+.bt2{
+    border-top-color: var(--color-2);
+    border-style: solid;
+}
+.br2{
+    border-right-color: var(--color-2);
+    border-style: solid;
+}
+.bb2{
+    border-bottom-color: var(--color-2);
+    border-style: solid;
+}
+.bl2{
+    border-left-color: var(--color-2);
+    border-style: solid;
+}
+.btb2{
+    border-top-color: var(--color-2);
+    border-bottom-color: var(--color-2);
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+.brl2{
+    border-right-color: var(--color-2);
+    border-left: var(--color-2);
+    border-right-style: solid;
+    border-left-style: solid;
+} 
+.text3{
+    color: var(--color-3);
+}
+.bg3{
+    background-color: var(--color-3);
+}
+.s3{
+    -webkit-box-shadow: 10px 10px 5px 0px var(--color-3);
+    -moz-box-shadow: 10px 10px 5px 0px var(--color-3);
+    box-shadow: 10px 10px 5px 0px var(--color-3);
+}
+.b3{
+    border-color: var(--color-3);
+    border-style: solid;
+}
+.bt3{
+    border-top-color: var(--color-3);
+    border-style: solid;
+}
+.br3{
+    border-right-color: var(--color-3);
+    border-style: solid;
+}
+.bb3{
+    border-bottom-color: var(--color-3);
+    border-style: solid;
+}
+.bl3{
+    border-left-color: var(--color-3);
+    border-style: solid;
+}
+.btb3{
+    border-top-color: var(--color-3);
+    border-bottom-color: var(--color-3);
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+.brl3{
+    border-right-color: var(--color-3);
+    border-left: var(--color-3);
+    border-right-style: solid;
+    border-left-style: solid;
+}
+.text4{
+    color: var(--color-4);
+}
+.bg4{
+    background-color: var(--color-4);
+}
+.s4{
+    -webkit-box-shadow: 10px 10px 5px 0px var(--color-4);
+    -moz-box-shadow: 10px 10px 5px 0px var(--color-4);
+    box-shadow: 10px 10px 5px 0px var(--color-4);
+}
+.b4{
+    border-color: var(--color-4);
+    border-style: solid;
+}
+.bt4{
+    border-top-color: var(--color-4);
+    border-style: solid;
+}
+.br4{
+    border-right-color: var(--color-4);
+    border-style: solid;
+}
+.bb4{
+    border-bottom-color: var(--color-4);
+    border-style: solid;
+}
+.bl4{
+    border-left-color: var(--color-4);
+    border-style: solid;
+}
+.btb4{
+    border-top-color: var(--color-4);
+    border-bottom-color: var(--color-4);
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+.brl4{
+    border-right-color: var(--color-4);
+    border-left: var(--color-4);
+    border-right-style: solid;
+    border-left-style: solid;
+}
+.text5{
+    color: var(--color-5);
+}
+.bg5{
+    background-color: var(--color-5);
+}
+.s5{
+    -webkit-box-shadow: 10px 10px 5px 0px var(--color-5);
+    -moz-box-shadow: 10px 10px 5px 0px var(--color-5);
+    box-shadow: 10px 10px 5px 0px var(--color-5);
+}
+.b5{
+    border-color: var(--color-5);
+    border-style: solid;
+}
+.bt5{
+    border-top-color: var(--color-5);
+    border-style: solid;
+}
+.br5{
+    border-right-color: var(--color-5);
+    border-style: solid;
+}
+.bb5{
+    border-bottom-color: var(--color-5);
+    border-style: solid;
+}
+.bl5{
+    border-left-color: var(--color-5);
+    border-style: solid;
+}
+.btb5{
+    border-top-color: var(--color-5);
+    border-bottom-color: var(--color-5);
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+.brl5{
+    border-right-color: var(--color-5);
+    border-left: var(--color-5);
+    border-right-style: solid;
+    border-left-style: solid;
+}
