@@ -8,7 +8,7 @@ body {
     --color-4: rgb(168,129,67);
     --color-5: rgb(245,206,147);
 }
-.text1{
+.t1{
     color: var(--color-1);
 }
 .bg1{
@@ -52,7 +52,7 @@ body {
     border-left-style: solid;
 } 
 
-.text2{
+.t2{
     color: var(--color-2);
 }
 .bg2{
@@ -95,7 +95,7 @@ body {
     border-right-style: solid;
     border-left-style: solid;
 } 
-.text3{
+.t3{
     color: var(--color-3);
 }
 .bg3{
@@ -138,7 +138,7 @@ body {
     border-right-style: solid;
     border-left-style: solid;
 }
-.text4{
+.t4{
     color: var(--color-4);
 }
 .bg4{
@@ -181,7 +181,7 @@ body {
     border-right-style: solid;
     border-left-style: solid;
 }
-.text5{
+.t5{
     color: var(--color-5);
 }
 .bg5{
