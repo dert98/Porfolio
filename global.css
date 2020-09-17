@@ -25,19 +25,19 @@ body {
 }
 .bt1{
     border-top-color: var(--color-1);
-    border-style: solid;
+    border-top-style: solid;
 }
 .br1{
     border-right-color: var(--color-1);
-    border-style: solid;
+    border-right-style: solid;
 }
 .bb1{
     border-bottom-color: var(--color-1);
-    border-style: solid;
+    border-bottom-style: solid;
 }
 .bl1{
     border-left-color: var(--color-1);
-    border-style: solid;
+    border-left-style: solid;
 }
 .btb1{
     border-top-color: var(--color-1);
@@ -69,19 +69,19 @@ body {
 }
 .bt2{
     border-top-color: var(--color-2);
-    border-style: solid;
+    border-top-style: solid;
 }
 .br2{
     border-right-color: var(--color-2);
-    border-style: solid;
+    border-right-style: solid;
 }
 .bb2{
     border-bottom-color: var(--color-2);
-    border-style: solid;
+    border-bottom-style: solid;
 }
 .bl2{
     border-left-color: var(--color-2);
-    border-style: solid;
+    border-left-style: solid;
 }
 .btb2{
     border-top-color: var(--color-2);
@@ -112,19 +112,19 @@ body {
 }
 .bt3{
     border-top-color: var(--color-3);
-    border-style: solid;
+    border-top-style: solid;
 }
 .br3{
     border-right-color: var(--color-3);
-    border-style: solid;
+    border-right-style: solid;
 }
 .bb3{
     border-bottom-color: var(--color-3);
-    border-style: solid;
+    border-bottom-style: solid;
 }
 .bl3{
     border-left-color: var(--color-3);
-    border-style: solid;
+    border-left-style: solid;
 }
 .btb3{
     border-top-color: var(--color-3);
@@ -155,19 +155,19 @@ body {
 }
 .bt4{
     border-top-color: var(--color-4);
-    border-style: solid;
+    border-top-style: solid;
 }
 .br4{
     border-right-color: var(--color-4);
-    border-style: solid;
+    border-right-style: solid;
 }
 .bb4{
     border-bottom-color: var(--color-4);
-    border-style: solid;
+    border-bottom-style: solid;
 }
 .bl4{
     border-left-color: var(--color-4);
-    border-style: solid;
+    border-left-style: solid;
 }
 .btb4{
     border-top-color: var(--color-4);
@@ -198,19 +198,19 @@ body {
 }
 .bt5{
     border-top-color: var(--color-5);
-    border-style: solid;
+    border-top-style: solid;
 }
 .br5{
     border-right-color: var(--color-5);
-    border-style: solid;
+    border-right-style: solid;
 }
 .bb5{
     border-bottom-color: var(--color-5);
-    border-style: solid;
+    border-bottom-style: solid;
 }
 .bl5{
     border-left-color: var(--color-5);
-    border-style: solid;
+    border-left-style: solid;
 }
 .btb5{
     border-top-color: var(--color-5);
