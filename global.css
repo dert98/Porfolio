@@ -313,12 +313,12 @@ background-blend-mode: multiply;
 .f2{
     background:
 	linear-gradient(
-		red,
+		grey,
 		transparent
 	),
 	linear-gradient(
 		-45deg,
-		blue,
+		magenta,
 		transparent
 	),
 	linear-gradient(
