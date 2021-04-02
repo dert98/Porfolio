@@ -352,5 +352,15 @@ background-blend-mode: multiply;
 .hr2:hover {
 	filter: opacity(.5);
 }
-.hr3:hover .imagen {-webkit-transform:scale(1.3);transform:scale(1.3);}
-.hr3 {overflow:hidden;}
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
