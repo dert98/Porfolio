@@ -353,13 +353,13 @@ background-blend-mode: multiply;
 	filter: opacity(.5);
 }
 .fimg1 {
-  background: url(./img/fimg1.jpg);
+  background: url(img/fimg1.jpg);
   background-repeat: no-repeat;
   background-size: auto;
 }
 
 .fimg2 {
-  background: url(./img/fimg2.jpg);
+  background: url(img/fimg2.jpg);
   background-repeat: no-repeat;
   background-size: 300px 100px;
 }
