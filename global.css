@@ -352,6 +352,17 @@ background-blend-mode: multiply;
 .hr2:hover {
 	filter: opacity(.5);
 }
+.fimg1 {
+  background: url(/img/illustration1.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.fimg2 {
+  background: url(/img/illustration2.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
 .whatsapp {
   position:fixed;
   width:60px;
