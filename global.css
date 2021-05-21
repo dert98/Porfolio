@@ -353,13 +353,28 @@ background-blend-mode: multiply;
 	filter: opacity(.5);
 }
 .fimg1 {
-  background: url(img/fimg1.jpg);
+  background: url(https://dert98.github.io/Porfolio/Porfolio_archivos/fimg1.jpg);
   background-repeat: no-repeat;
   background-size: auto;
 }
 
 .fimg2 {
-  background: url(img/fimg2.jpg);
+  background: url(https://dert98.github.io/Porfolio/Porfolio_archivos/fimg2.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+.fimg3 {
+  background: url(https://dert98.github.io/Porfolio/Porfolio_archivos/fimg3.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+.fimg4 {
+  background: url(https://dert98.github.io/Porfolio/Porfolio_archivos/fimg4.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+.fimg5 {
+  background: url(https://dert98.github.io/Porfolio/Porfolio_archivos/fimg5.jpg);
   background-repeat: no-repeat;
   background-size: 300px 100px;
 }
